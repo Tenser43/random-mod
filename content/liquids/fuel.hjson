@@ -1,0 +1,7 @@
+name: Fuel
+descrption: Can be made from oil in the fuel refinery. Also, keep from being exposed to Electricity.
+temperature: 0.5
+viscosity: 0.3
+heatCapacity: 1.25
+effect: tarred
+color: D1913C
