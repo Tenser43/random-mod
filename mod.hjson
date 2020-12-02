@@ -1,8 +1,8 @@
-name: "random-mod"
-displayName: "Random Mod"
+name: random-mod
+displayName: Random Mod
 author: Tenser43
-description: "Adds 'random' but useful stuff to the game"
-version: "1.0"
-minGameVersion: "120"
+description: Adds 'random' but useful stuff to the game
+version: 1.0
+minGameVersion: 120
 dependencies: [ ]
 hidden: false
