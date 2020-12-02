@@ -3,6 +3,7 @@
       "description": "A basic wall that utlizses Iron to build a realatively cheap defense.",
       "health": 525,
       "size": 1,
+      "update": true,
       "requirements": [
                { "item": "iron", "amount": 6 }
       ],
