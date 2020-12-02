@@ -1,8 +1,6 @@
-{
-        "type": "material",
-        "name": "Iron",
-        "description": "Used for crafting, building stuff, and ammunition.",
-        "cost": 0.1,
-        "color": "a19d94",
-        "hardness": 1
-}
+"type": "material",
+"name": "Iron",
+"description": "Used for crafting, building stuff, and ammunition.",
+"cost": 0.1,
+"color": "a19d94",
+"hardness": 1
