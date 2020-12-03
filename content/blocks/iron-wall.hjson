@@ -4,7 +4,6 @@ health: 525
 size: 1
 update: true
 requirements: [
-         { item: iron, amount: 6 }
-],
+         { item: iron, amount: 6 }]
 category: defense
 research: iron-wall
