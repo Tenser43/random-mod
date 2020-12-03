@@ -4,7 +4,6 @@ health: 2100
 size: 2
 update: true
 requirements: [
-        { item: iron, amount: 24 }
-]
+        { item: iron, amount: 24 }]
 category: defense
 research: large-iron-wall
