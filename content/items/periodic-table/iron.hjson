@@ -1,6 +1,6 @@
-type: material
+type: Item
 name: Iron
 description: Used for crafting, building stuff, and ammunition.
+hardness: 1
 cost: 0.1
 color: a19d94
-hardness: 1
