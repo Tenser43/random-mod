@@ -1,8 +1,3 @@
-name: random-mod
-displayName: Random Mod
-author: Tenser43
-description: Adds 'random' but useful stuff to the game
-version: 1.0
-minGameVersion: 120
-dependencies: [ ]
-hidden: false
+name: "Random Mod"
+minGameVersion: 121
+version: 0.1.0
