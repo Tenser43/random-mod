@@ -1,3 +1,8 @@
 name: "Random Mod"
+displayName: "Random Mod"
+author: "Tenser"
+description: "This mod adds some random, but useful stuff."
+version: "0.1.0"
 minGameVersion: 122
-version: 0.1.0
+dependencies: [ ]
+hidden: false
